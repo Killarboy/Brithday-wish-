@@ -1,6 +1,4 @@
-import os
-
-so.system ('clear') 
+echo 'clear'
 echo          ╭╮╱╭╮|lolcat 
 echo          ┃┃╱┃┃|lolcat 
 echo          ┃╰━╯┣━━┳━━┳━━┳╮╱╭╮|lolcat 

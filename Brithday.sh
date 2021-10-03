@@ -1,5 +1,6 @@
 import os
-so.system print('clear') 
+
+so.system ('clear') 
 echo          ╭╮╱╭╮|lolcat 
 echo          ┃┃╱┃┃|lolcat 
 echo          ┃╰━╯┣━━┳━━┳━━┳╮╱╭╮|lolcat 
